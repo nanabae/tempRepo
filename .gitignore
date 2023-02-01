@@ -1,0 +1,9 @@
+workspace/*/.settings/
+.classpath
+.project
+workspace/**/.gitignore
+
+
+
+
+
